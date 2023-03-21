@@ -1,0 +1,88 @@
+commit 5175eb127e512c6bb38c59ab5b9bf7ba82f72fb9
+Author: ritesh <riteshbansod71@gmail.com>
+Date:   Tue Mar 21 23:55:21 2023 +0530
+
+    Re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..b4c47df
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 software
+\ No newline at end of file
+
+commit 36d4cc2739756daa1372f5d38c6ec29462ac6c48
+Author: ritesh <riteshbansod71@gmail.com>
+Date:   Tue Mar 21 23:51:27 2023 +0530
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 8a0e3c4..6869d7e 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,2 +1,3 @@
+ Ritesh
+-cse
+\ No newline at end of file
++cse
++blue
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index b4c47df..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2025 software
+\ No newline at end of file
+
+commit c5e91959db8bf1948a460572e463dd3d7da8bc1f
+Author: ritesh <riteshbansod71@gmail.com>
+Date:   Tue Mar 21 23:44:00 2023 +0530
+
+    Added file2
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..b4c47df
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 software
+\ No newline at end of file
+
+commit a5eee7298629bda53ce309c2d3db8a4c31c03531
+Author: ritesh <riteshbansod71@gmail.com>
+Date:   Tue Mar 21 23:19:40 2023 +0530
+
+    Added favourite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 991eb7c..8a0e3c4 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,2 +1,2 @@
+ Ritesh
+-27925
+\ No newline at end of file
++cse
+\ No newline at end of file
+
+commit d0dec1c457adc69680ceb7b20f8ee30820f74168
+Author: ritesh <riteshbansod71@gmail.com>
+Date:   Tue Mar 21 23:12:01 2023 +0530
+
+    Committing a new file with ny name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..991eb7c
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1,2 @@
++Ritesh
++27925
+\ No newline at end of file
